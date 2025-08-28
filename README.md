@@ -7,7 +7,7 @@ Esta atividade foi desenvolvida como parte das práticas da disciplina de **Dese
 
 Você pode visualizar o projeto funcionando através do link abaixo:
 
-👉 [Clique aqui para acessar o site](https://satirodev.github.io/Atividade4/)
+👉 [Clique aqui para acessar o site](https://satirodev.github.io/Atividade1/)
 
 
 ## 🛠 Tecnologia Utilizada
